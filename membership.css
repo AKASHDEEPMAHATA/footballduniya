@@ -55,7 +55,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 15vh;
+  height: 12vh;
 }
 
 .desc h1 {
@@ -75,7 +75,7 @@ section {
   justify-content: center;
   align-items: center;
   gap: var(--bu);
-  height: 440px;
+  height: 400px;
   width: 100%;
   background: var(--primary);
 }
@@ -96,7 +96,7 @@ section {
 
 .container {
   position: relative;
-  height: 125%;
+  height: 128%;
   flex-basis: 75%;
   border-radius: var(--bu);
 }
